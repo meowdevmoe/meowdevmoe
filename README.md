@@ -27,7 +27,7 @@
 
 ## Open source
 
-- [**ash-stats**](https://github.com/XXVIX/ash-stats) — the statistics core of my analytics engine as a Rust crate: Wilson intervals, significance tests, trend-aware anomaly detection and Holt–Winters forecasts.
+- [**ash-stats**](https://github.com/meowdevmoe/ash-stats) — the statistics core of my analytics engine as a Rust crate: Wilson intervals, significance tests, trend-aware anomaly detection and Holt–Winters forecasts.
 
 ---
 
@@ -96,12 +96,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=XXVIX&rank_icon=percentile&show_icons=true&theme=great-gatsby&hide_border=true" alt="XXVIX GitHub stats"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=XXVIX&layout=donut&langs_count=5&theme=great-gatsby&hide_border=true" alt="XXVIX top languages"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=meowdevmoe&rank_icon=percentile&show_icons=true&theme=great-gatsby&hide_border=true" alt="meowdevmoe GitHub stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=meowdevmoe&layout=donut&langs_count=5&theme=great-gatsby&hide_border=true" alt="meowdevmoe top languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XXVIX&style=flat-square&color=FF7A3D&label=profile+views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=meowdevmoe&style=flat-square&color=FF7A3D&label=profile+views" alt="profile views"/>
 </p>

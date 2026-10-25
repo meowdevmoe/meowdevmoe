@@ -93,15 +93,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="assets/kannasip.png" width="32" height="32" align="middle" alt=""/> Stats
 
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=meowdevmoe&rank_icon=percentile&show_icons=true&theme=great-gatsby&hide_border=true" alt="meowdevmoe GitHub stats"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=meowdevmoe&layout=donut&langs_count=5&theme=great-gatsby&hide_border=true" alt="meowdevmoe top languages"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"/>
+  <img width="100%" src="assets/activity-light.svg" alt="StrinovaHub activity: commits, active days, longest streak, services"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"/>
+  <img width="100%" src="assets/languages-light.svg" alt="Languages in the StrinovaHub codebase"/>
+</picture>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meowdevmoe&style=flat-square&color=FF7A3D&label=profile+views" alt="profile views"/>
+  <img src="https://cdn.strinovahub.com/counter/github-meowdevmoe.svg" alt="profile views"/>
 </p>

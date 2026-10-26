@@ -103,6 +103,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"/>
   <img width="100%" src="assets/languages-light.svg" alt="Languages in the StrinovaHub codebase"/>
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nekodb.space/github/meowdevmoe/languages.svg?theme=dark"/>
+  <img width="100%" src="https://nekodb.space/github/meowdevmoe/languages.svg?theme=light" alt="Languages across my public GitHub repositories"/>
+</picture>
 
 ---
 
